@@ -1,0 +1,484 @@
+"Register No";"Student Name";Branch;Semester;Course;"Exam Type";Attendance;Withheld;IMark;Grade;Result
+18046051,"YAMIN .A.K","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,25,F,F
+18046051,"YAMIN .A.K","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,36,B,P
+18046051,"YAMIN .A.K","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,25,D,P
+18046051,"YAMIN .A.K","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,39,F,F
+18046051,"YAMIN .A.K","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,35,F,F
+18046051,"YAMIN .A.K","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,35,F,F
+18046051,"YAMIN .A.K","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,35,C,P
+18046050,"RASHIK RAHMAN.C.K","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,28,B,P
+18046050,"RASHIK RAHMAN.C.K","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,42,A,P
+18046050,"RASHIK RAHMAN.C.K","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,28,B,P
+18046050,"RASHIK RAHMAN.C.K","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,42,D,P
+18046050,"RASHIK RAHMAN.C.K","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,41,B,P
+18046050,"RASHIK RAHMAN.C.K","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,41,D,P
+18046050,"RASHIK RAHMAN.C.K","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,41,B,P
+18046049,"MUHAMMED ASHFAK.K","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,42,A,P
+18046049,"MUHAMMED ASHFAK.K","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,37,B,P
+18046049,"MUHAMMED ASHFAK.K","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,42,A,P
+18046049,"MUHAMMED ASHFAK.K","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,40,A,P
+18046049,"MUHAMMED ASHFAK.K","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,40,C,P
+18046049,"MUHAMMED ASHFAK.K","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,40,B,P
+18046049,"MUHAMMED ASHFAK.K","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,37,B,P
+18046048,"HASNA .C","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,43,C,P
+18046048,"HASNA .C","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,42,B,P
+18046048,"HASNA .C","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,42,C,P
+18046048,"HASNA .C","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,42,B,P
+18046048,"HASNA .C","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,19,D,P
+18046048,"HASNA .C","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,46,S,P
+18046048,"HASNA .C","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,19,C,P
+18046047,HARISANKAR.S,"Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,40,B,P
+18046047,HARISANKAR.S,"Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,37,C,P
+18046047,HARISANKAR.S,"Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,44,A,P
+18046047,HARISANKAR.S,"Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,37,B,P
+18046047,HARISANKAR.S,"Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,22,E,P
+18046047,HARISANKAR.S,"Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,40,B,P
+18046047,HARISANKAR.S,"Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,40,C,P
+18042305,"AKHIL .K","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,30,C,P
+18042305,"AKHIL .K","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,20,D,P
+18042305,"AKHIL .K","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,32,F,F
+18042305,"AKHIL .K","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,33,F,F
+18042305,"AKHIL .K","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,33,F,F
+18042305,"AKHIL .K","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,33,C,P
+18042305,"AKHIL .K","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,20,F,F
+18042247,"AKSHAY V.P.","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,34,F,F
+18042247,"AKSHAY V.P.","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,34,C,P
+18042247,"AKSHAY V.P.","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,23,F,F
+18042247,"AKSHAY V.P.","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,32,C,P
+18042247,"AKSHAY V.P.","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,23,D,P
+18042247,"AKSHAY V.P.","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,34,F,F
+18042247,"AKSHAY V.P.","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,34,D,P
+18041516,"DILSHANA. N","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,42,B,P
+18041516,"DILSHANA. N","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,42,C,P
+18041516,"DILSHANA. N","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,46,S,P
+18041516,"DILSHANA. N","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,42,A,P
+18041516,"DILSHANA. N","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,45,C,P
+18041516,"DILSHANA. N","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,42,B,P
+18041516,"DILSHANA. N","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,42,D,P
+18040872,"SANJANA. M","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,46,S,P
+18040872,"SANJANA. M","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,46,A,P
+18040872,"SANJANA. M","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,46,A,P
+18040872,"SANJANA. M","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,49,S,P
+18040872,"SANJANA. M","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,48,S,P
+18040872,"SANJANA. M","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,49,S,P
+18040872,"SANJANA. M","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,50,S,P
+18040855,"MUHAMMED FARIS. K","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,33,C,P
+18040855,"MUHAMMED FARIS. K","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,B,P
+18040855,"MUHAMMED FARIS. K","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,33,B,P
+18040855,"MUHAMMED FARIS. K","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,40,C,P
+18040855,"MUHAMMED FARIS. K","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,40,D,P
+18040855,"MUHAMMED FARIS. K","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,40,D,P
+18040855,"MUHAMMED FARIS. K","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,40,B,P
+18040508,"VISHNURAJ. C","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,35,B,P
+18040508,"VISHNURAJ. C","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,44,A,P
+18040508,"VISHNURAJ. C","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,44,C,P
+18040508,"VISHNURAJ. C","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,44,A,P
+18040508,"VISHNURAJ. C","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,38,A,P
+18040508,"VISHNURAJ. C","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,46,S,P
+18040508,"VISHNURAJ. C","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,38,B,P
+18040507,"VISHNU PRASAD.K","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,39,C,P
+18040507,"VISHNU PRASAD.K","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,39,B,P
+18040507,"VISHNU PRASAD.K","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,39,B,P
+18040507,"VISHNU PRASAD.K","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,42,A,P
+18040507,"VISHNU PRASAD.K","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,B,P
+18040507,"VISHNU PRASAD.K","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,42,A,P
+18040507,"VISHNU PRASAD.K","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,45,C,P
+18040506,VIGNESH.AP,"Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,33,C,P
+18040506,VIGNESH.AP,"Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,36,B,P
+18040506,VIGNESH.AP,"Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,33,B,P
+18040506,VIGNESH.AP,"Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,42,D,P
+18040506,VIGNESH.AP,"Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,40,D,P
+18040506,VIGNESH.AP,"Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,40,D,P
+18040506,VIGNESH.AP,"Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,40,B,P
+18040505,"VAISHAKH C","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,37,C,P
+18040505,"VAISHAKH C","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,38,B,P
+18040505,"VAISHAKH C","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,37,A,P
+18040505,"VAISHAKH C","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,43,C,P
+18040505,"VAISHAKH C","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,38,D,P
+18040505,"VAISHAKH C","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,38,C,P
+18040505,"VAISHAKH C","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,38,B,P
+18040503,"SUDHEV. K","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,39,B,P
+18040503,"SUDHEV. K","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,47,B,P
+18040503,"SUDHEV. K","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,40,C,P
+18040503,"SUDHEV. K","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,40,C,P
+18040503,"SUDHEV. K","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,40,B,P
+18040503,"SUDHEV. K","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,39,B,P
+18040503,"SUDHEV. K","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,A,P
+18040502,"SREEJITH. M","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,27,E,P
+18040502,"SREEJITH. M","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,10,F,F
+18040502,"SREEJITH. M","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,30,C,P
+18040502,"SREEJITH. M","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,10,F,F
+18040502,"SREEJITH. M","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Absent,,20,F,F
+18040502,"SREEJITH. M","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,10,F,F
+18040502,"SREEJITH. M","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,27,E,P
+18040500,SHAHMA.E,"Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,40,D,P
+18040500,SHAHMA.E,"Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,40,B,P
+18040500,SHAHMA.E,"Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,35,C,P
+18040500,SHAHMA.E,"Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,44,A,P
+18040500,SHAHMA.E,"Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,35,B,P
+18040500,SHAHMA.E,"Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,42,D,P
+18040500,SHAHMA.E,"Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,40,C,P
+18040499,SHAHILA.M.T,"Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,42,B,P
+18040499,SHAHILA.M.T,"Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,39,A,P
+18040499,SHAHILA.M.T,"Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,46,S,P
+18040499,SHAHILA.M.T,"Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,39,A,P
+18040499,SHAHILA.M.T,"Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,42,B,P
+18040499,SHAHILA.M.T,"Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,42,B,P
+18040499,SHAHILA.M.T,"Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,42,C,P
+18040498,"SHAHANA RINSHA T","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,38,D,P
+18040498,"SHAHANA RINSHA T","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,38,B,P
+18040498,"SHAHANA RINSHA T","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,34,D,P
+18040498,"SHAHANA RINSHA T","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,36,B,P
+18040498,"SHAHANA RINSHA T","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,34,B,P
+18040498,"SHAHANA RINSHA T","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,44,D,P
+18040498,"SHAHANA RINSHA T","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,38,D,P
+18040497,"SHABEERALI . A.K","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,32,E,P
+18040497,"SHABEERALI . A.K","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,B,P
+18040497,"SHABEERALI . A.K","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,32,B,P
+18040497,"SHABEERALI . A.K","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,32,C,P
+18040497,"SHABEERALI . A.K","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,41,C,P
+18040497,"SHABEERALI . A.K","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,41,D,P
+18040497,"SHABEERALI . A.K","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,41,B,P
+18040496,"SARATH . C","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,39,B,P
+18040496,"SARATH . C","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,A,P
+18040496,"SARATH . C","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,39,A,P
+18040496,"SARATH . C","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,47,C,P
+18040496,"SARATH . C","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,40,B,P
+18040496,"SARATH . C","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,40,B,P
+18040496,"SARATH . C","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,40,B,P
+18040495,"SANJAY S","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,39,D,P
+18040495,"SANJAY S","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,39,B,P
+18040495,"SANJAY S","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,34,D,P
+18040495,"SANJAY S","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,A,P
+18040495,"SANJAY S","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,34,B,P
+18040495,"SANJAY S","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,47,B,P
+18040495,"SANJAY S","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,39,C,P
+18040494,"SALU . E","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,43,S,P
+18040494,"SALU . E","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,49,A,P
+18040494,"SALU . E","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,42,A,P
+18040494,"SALU . E","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,42,B,P
+18040494,"SALU . E","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,42,B,P
+18040494,"SALU . E","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,43,S,P
+18040494,"SALU . E","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,38,B,P
+18040493,"SALMANUL FARIS V","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,40,C,P
+18040493,"SALMANUL FARIS V","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,39,B,P
+18040493,"SALMANUL FARIS V","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,39,C,P
+18040493,"SALMANUL FARIS V","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,39,B,P
+18040493,"SALMANUL FARIS V","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,39,A,P
+18040493,"SALMANUL FARIS V","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,A,P
+18040493,"SALMANUL FARIS V","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,39,A,P
+18040492,"SAHLA. C.P","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,45,A,P
+18040492,"SAHLA. C.P","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,34,C,P
+18040492,"SAHLA. C.P","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,45,S,P
+18040492,"SAHLA. C.P","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,45,A,P
+18040492,"SAHLA. C.P","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,40,A,P
+18040492,"SAHLA. C.P","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,40,A,P
+18040492,"SAHLA. C.P","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,40,B,P
+18040491,"SAFVAN. P","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,44,A,P
+18040491,"SAFVAN. P","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,44,A,P
+18040491,"SAFVAN. P","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,42,A,P
+18040491,"SAFVAN. P","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,44,A,P
+18040491,"SAFVAN. P","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,42,A,P
+18040491,"SAFVAN. P","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,50,S,P
+18040491,"SAFVAN. P","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,44,A,P
+18040490,ROHITH.P,"Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,35,D,P
+18040490,ROHITH.P,"Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,A,P
+18040490,ROHITH.P,"Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,35,B,P
+18040490,ROHITH.P,"Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,44,D,P
+18040490,ROHITH.P,"Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,41,D,P
+18040490,ROHITH.P,"Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,41,D,P
+18040490,ROHITH.P,"Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,41,B,P
+18040489,"RANJITH .V","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,42,D,P
+18040489,"RANJITH .V","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,42,B,P
+18040489,"RANJITH .V","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,27,D,P
+18040489,"RANJITH .V","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,A,P
+18040489,"RANJITH .V","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,27,C,P
+18040489,"RANJITH .V","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,28,E,P
+18040489,"RANJITH .V","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,42,C,P
+18040488,"RAMSEENA. K.V","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Absent,,45,F,F
+18040488,"RAMSEENA. K.V","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,44,A,P
+18040488,"RAMSEENA. K.V","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,45,A,P
+18040488,"RAMSEENA. K.V","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Absent,,48,F,F
+18040488,"RAMSEENA. K.V","Electronics Engineering",6,"6042-Communication Systems",Regular,Absent,,40,F,F
+18040488,"RAMSEENA. K.V","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Absent,,40,F,F
+18040488,"RAMSEENA. K.V","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,40,B,P
+18040487,"RAJATH DEVARAJ . K . P","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,44,A,P
+18040487,"RAJATH DEVARAJ . K . P","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,44,A,P
+18040487,"RAJATH DEVARAJ . K . P","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,47,A,P
+18040487,"RAJATH DEVARAJ . K . P","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,46,S,P
+18040487,"RAJATH DEVARAJ . K . P","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,47,S,P
+18040487,"RAJATH DEVARAJ . K . P","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,49,B,P
+18040487,"RAJATH DEVARAJ . K . P","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,44,B,P
+18040486,"NIYAJ .C","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,37,D,P
+18040486,"NIYAJ .C","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,37,C,P
+18040486,"NIYAJ .C","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,27,E,P
+18040486,"NIYAJ .C","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,A,P
+18040486,"NIYAJ .C","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,27,C,P
+18040486,"NIYAJ .C","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,42,D,P
+18040486,"NIYAJ .C","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,37,D,P
+18040485,"NISFAN. K.P","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,23,E,P
+18040485,"NISFAN. K.P","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,38,B,P
+18040485,"NISFAN. K.P","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,23,D,P
+18040485,"NISFAN. K.P","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,27,F,F
+18040485,"NISFAN. K.P","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,36,F,F
+18040485,"NISFAN. K.P","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,36,F,F
+18040485,"NISFAN. K.P","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,36,C,P
+18040484,"NAVALU RAHMAN M","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,47,S,P
+18040484,"NAVALU RAHMAN M","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,46,A,P
+18040484,"NAVALU RAHMAN M","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,47,S,P
+18040484,"NAVALU RAHMAN M","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,44,A,P
+18040484,"NAVALU RAHMAN M","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,44,S,P
+18040484,"NAVALU RAHMAN M","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,44,B,P
+18040484,"NAVALU RAHMAN M","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,44,A,P
+18040483,"NASHVA MARIYAM. P","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,39,B,P
+18040483,"NASHVA MARIYAM. P","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,36,B,P
+18040483,"NASHVA MARIYAM. P","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,39,A,P
+18040483,"NASHVA MARIYAM. P","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,49,A,P
+18040483,"NASHVA MARIYAM. P","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,39,B,P
+18040483,"NASHVA MARIYAM. P","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,39,B,P
+18040483,"NASHVA MARIYAM. P","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,39,B,P
+18040482,NANDUKRISHNAN.T,"Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,42,A,P
+18040482,NANDUKRISHNAN.T,"Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,43,S,P
+18040482,NANDUKRISHNAN.T,"Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,47,B,P
+18040482,NANDUKRISHNAN.T,"Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,40,B,P
+18040482,NANDUKRISHNAN.T,"Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,40,C,P
+18040482,NANDUKRISHNAN.T,"Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,40,B,P
+18040482,NANDUKRISHNAN.T,"Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,43,A,P
+18040480,"NAEEMA. N. K","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,29,C,P
+18040480,"NAEEMA. N. K","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,48,S,P
+18040480,"NAEEMA. N. K","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,29,B,P
+18040480,"NAEEMA. N. K","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,49,C,P
+18040480,"NAEEMA. N. K","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,39,B,P
+18040480,"NAEEMA. N. K","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,39,D,P
+18040480,"NAEEMA. N. K","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,39,B,P
+18040479,"MUHAMMED MUNAWIR .E.C","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,33,C,P
+18040479,"MUHAMMED MUNAWIR .E.C","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,32,C,P
+18040479,"MUHAMMED MUNAWIR .E.C","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,33,B,P
+18040479,"MUHAMMED MUNAWIR .E.C","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,39,C,P
+18040479,"MUHAMMED MUNAWIR .E.C","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,40,D,P
+18040479,"MUHAMMED MUNAWIR .E.C","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,40,D,P
+18040479,"MUHAMMED MUNAWIR .E.C","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,40,B,P
+18040478,"MUHAMMED ARSHAD M P","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,36,D,P
+18040478,"MUHAMMED ARSHAD M P","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,36,D,P
+18040478,"MUHAMMED ARSHAD M P","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,36,C,P
+18040478,"MUHAMMED ARSHAD M P","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,30,D,P
+18040478,"MUHAMMED ARSHAD M P","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,42,A,P
+18040478,"MUHAMMED ARSHAD M P","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,30,C,P
+18040478,"MUHAMMED ARSHAD M P","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,35,D,P
+18040477,MUFEED.K,"Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,35,A,P
+18040477,MUFEED.K,"Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,48,S,P
+18040477,MUFEED.K,"Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,35,B,P
+18040477,MUFEED.K,"Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,47,B,P
+18040477,MUFEED.K,"Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,45,B,P
+18040477,MUFEED.K,"Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,45,C,P
+18040477,MUFEED.K,"Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,45,A,P
+18040476,"MOHAMMED RISWAN P .P","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,14,D,P
+18040476,"MOHAMMED RISWAN P .P","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,23,F,F
+18040476,"MOHAMMED RISWAN P .P","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,30,F,F
+18040476,"MOHAMMED RISWAN P .P","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,30,F,F
+18040476,"MOHAMMED RISWAN P .P","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,30,D,P
+18040476,"MOHAMMED RISWAN P .P","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,14,F,F
+18040476,"MOHAMMED RISWAN P .P","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,38,B,P
+18040474,MAHESH.A,"Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,37,D,P
+18040474,MAHESH.A,"Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,37,C,P
+18040474,MAHESH.A,"Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,27,C,P
+18040474,MAHESH.A,"Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,28,D,P
+18040474,MAHESH.A,"Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,27,C,P
+18040474,MAHESH.A,"Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,33,E,P
+18040474,MAHESH.A,"Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,37,C,P
+18040473,"KAMIL AHAMMED. P","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,45,S,P
+18040473,"KAMIL AHAMMED. P","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,46,S,P
+18040473,"KAMIL AHAMMED. P","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,45,S,P
+18040473,"KAMIL AHAMMED. P","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,48,A,P
+18040473,"KAMIL AHAMMED. P","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,44,A,P
+18040473,"KAMIL AHAMMED. P","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,44,A,P
+18040473,"KAMIL AHAMMED. P","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,44,A,P
+18040472,"JISHAD AZEEZ . N P","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,41,B,P
+18040472,"JISHAD AZEEZ . N P","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,28,B,P
+18040472,"JISHAD AZEEZ . N P","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,38,B,P
+18040472,"JISHAD AZEEZ . N P","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,28,B,P
+18040472,"JISHAD AZEEZ . N P","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,47,A,P
+18040472,"JISHAD AZEEZ . N P","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,41,A,P
+18040472,"JISHAD AZEEZ . N P","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,41,C,P
+18040471,"JIJINA . C.K","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,44,S,P
+18040471,"JIJINA . C.K","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,44,A,P
+18040471,"JIJINA . C.K","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,44,S,P
+18040471,"JIJINA . C.K","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,48,A,P
+18040471,"JIJINA . C.K","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,44,A,P
+18040471,"JIJINA . C.K","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,44,A,P
+18040471,"JIJINA . C.K","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,44,A,P
+18040470,"IRSHAD M","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,7,F,F
+18040470,"IRSHAD M","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,38,B,P
+18040470,"IRSHAD M","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,7,E,P
+18040470,"IRSHAD M","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,20,F,F
+18040470,"IRSHAD M","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,35,D,P
+18040470,"IRSHAD M","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,35,F,F
+18040470,"IRSHAD M","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,35,C,P
+18040469,"HASNAN MOHAMMED T.A","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,32,D,P
+18040469,"HASNAN MOHAMMED T.A","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,A,P
+18040469,"HASNAN MOHAMMED T.A","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,32,B,P
+18040469,"HASNAN MOHAMMED T.A","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,34,D,P
+18040469,"HASNAN MOHAMMED T.A","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,35,D,P
+18040469,"HASNAN MOHAMMED T.A","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,35,C,P
+18040469,"HASNAN MOHAMMED T.A","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,35,C,P
+18040468,HARISANTH.M,"Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,25,F,F
+18040468,HARISANTH.M,"Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,32,C,P
+18040468,HARISANTH.M,"Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,25,D,P
+18040468,HARISANTH.M,"Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,35,F,F
+18040468,HARISANTH.M,"Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,37,D,P
+18040468,HARISANTH.M,"Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,37,F,F
+18040468,HARISANTH.M,"Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,37,C,P
+18040467,"FATHIMA ZUHRA .M","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,A,P
+18040467,"FATHIMA ZUHRA .M","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,47,S,P
+18040467,"FATHIMA ZUHRA .M","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,45,A,P
+18040467,"FATHIMA ZUHRA .M","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,44,A,P
+18040467,"FATHIMA ZUHRA .M","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,44,A,P
+18040467,"FATHIMA ZUHRA .M","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,44,A,P
+18040467,"FATHIMA ZUHRA .M","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,47,S,P
+18040466,"FATHIMA RISANA .C","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,43,S,P
+18040466,"FATHIMA RISANA .C","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,A,P
+18040466,"FATHIMA RISANA .C","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,43,S,P
+18040466,"FATHIMA RISANA .C","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,43,C,P
+18040466,"FATHIMA RISANA .C","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,42,B,P
+18040466,"FATHIMA RISANA .C","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,42,A,P
+18040466,"FATHIMA RISANA .C","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,42,B,P
+18040465,"DEVARJUN K","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,42,A,P
+18040465,"DEVARJUN K","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,38,A,P
+18040465,"DEVARJUN K","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,48,C,P
+18040465,"DEVARJUN K","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,38,C,P
+18040465,"DEVARJUN K","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,38,C,P
+18040465,"DEVARJUN K","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,38,B,P
+18040465,"DEVARJUN K","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,38,C,P
+18040464,CHITHRA.M,"Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,48,S,P
+18040464,CHITHRA.M,"Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,39,A,P
+18040464,CHITHRA.M,"Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,39,B,P
+18040464,CHITHRA.M,"Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,39,B,P
+18040464,CHITHRA.M,"Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,43,A,P
+18040464,CHITHRA.M,"Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,A,P
+18040464,CHITHRA.M,"Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,43,S,P
+18040463,"BIPIN. P","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,45,C,P
+18040463,"BIPIN. P","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,38,B,P
+18040463,"BIPIN. P","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,38,B,P
+18040463,"BIPIN. P","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,38,B,P
+18040463,"BIPIN. P","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,37,C,P
+18040463,"BIPIN. P","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,46,S,P
+18040463,"BIPIN. P","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,37,A,P
+18040462,"AYSWARIYA .N","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,42,A,P
+18040462,"AYSWARIYA .N","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,48,C,P
+18040462,"AYSWARIYA .N","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,42,B,P
+18040462,"AYSWARIYA .N","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,42,C,P
+18040462,"AYSWARIYA .N","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,42,B,P
+18040462,"AYSWARIYA .N","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,42,B,P
+18040462,"AYSWARIYA .N","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,38,B,P
+18040461,"ASWINI. C","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,45,A,P
+18040461,"ASWINI. C","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,42,A,P
+18040461,"ASWINI. C","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,45,S,P
+18040461,"ASWINI. C","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,50,A,P
+18040461,"ASWINI. C","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,39,A,P
+18040461,"ASWINI. C","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,39,B,P
+18040461,"ASWINI. C","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,39,B,P
+18040460,ASWIN.N,"Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,42,A,P
+18040460,ASWIN.N,"Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,28,C,P
+18040460,ASWIN.N,"Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,43,B,P
+18040460,ASWIN.N,"Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,38,C,P
+18040460,ASWIN.N,"Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,38,B,P
+18040460,ASWIN.N,"Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,38,B,P
+18040460,ASWIN.N,"Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,28,D,P
+18040459,"ASWIN T","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,44,A,P
+18040459,"ASWIN T","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,32,B,P
+18040459,"ASWIN T","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,48,B,P
+18040459,"ASWIN T","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,41,D,P
+18040459,"ASWIN T","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,41,C,P
+18040459,"ASWIN T","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,41,B,P
+18040459,"ASWIN T","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,32,D,P
+18040458,"ASIF. C. K","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,42,A,P
+18040458,"ASIF. C. K","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,35,A,P
+18040458,"ASIF. C. K","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,35,C,P
+18040458,"ASIF. C. K","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,39,C,P
+18040458,"ASIF. C. K","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,39,D,P
+18040458,"ASIF. C. K","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,39,B,P
+18040458,"ASIF. C. K","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,35,B,P
+18040456,"ARCHANA. K","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,47,S,P
+18040456,"ARCHANA. K","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Absent,,47,F,F
+18040456,"ARCHANA. K","Electronics Engineering",6,"6042-Communication Systems",Regular,Absent,,43,F,F
+18040456,"ARCHANA. K","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Absent,,43,F,F
+18040456,"ARCHANA. K","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,43,A,P
+18040456,"ARCHANA. K","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Absent,,47,F,F
+18040456,"ARCHANA. K","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,A,P
+18040455,ANOOP.E,"Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,42,A,P
+18040455,ANOOP.E,"Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,44,B,P
+18040455,ANOOP.E,"Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,43,A,P
+18040455,ANOOP.E,"Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,43,C,P
+18040455,ANOOP.E,"Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,43,A,P
+18040455,ANOOP.E,"Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,42,A,P
+18040455,ANOOP.E,"Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,A,P
+18040454,"ANOOF. P","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,38,C,P
+18040454,"ANOOF. P","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,38,B,P
+18040454,"ANOOF. P","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,22,C,P
+18040454,"ANOOF. P","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,38,B,P
+18040454,"ANOOF. P","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,22,C,P
+18040454,"ANOOF. P","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,42,C,P
+18040454,"ANOOF. P","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,38,C,P
+18040452,"ANAGHA . M","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,42,B,P
+18040452,"ANAGHA . M","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,46,S,P
+18040452,"ANAGHA . M","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,42,A,P
+18040452,"ANAGHA . M","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,44,C,P
+18040452,"ANAGHA . M","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,41,C,P
+18040452,"ANAGHA . M","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,41,C,P
+18040452,"ANAGHA . M","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,41,B,P
+18040451,"AKHIL. P.V","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,35,C,P
+18040451,"AKHIL. P.V","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,40,A,P
+18040451,"AKHIL. P.V","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,35,B,P
+18040451,"AKHIL. P.V","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,40,B,P
+18040451,"AKHIL. P.V","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,42,B,P
+18040451,"AKHIL. P.V","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,42,B,P
+18040451,"AKHIL. P.V","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,42,B,P
+18040450,"AJIN. V.A","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,36,B,P
+18040450,"AJIN. V.A","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,27,C,P
+18040450,"AJIN. V.A","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,30,F,F
+18040450,"AJIN. V.A","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,35,F,F
+18040450,"AJIN. V.A","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,35,F,F
+18040450,"AJIN. V.A","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,35,C,P
+18040450,"AJIN. V.A","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,27,F,F
+18040449,AFNAN.T,"Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,40,D,P
+18040449,AFNAN.T,"Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,40,B,P
+18040449,AFNAN.T,"Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,25,D,P
+18040449,AFNAN.T,"Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,36,B,P
+18040449,AFNAN.T,"Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,25,B,P
+18040449,AFNAN.T,"Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,42,C,P
+18040449,AFNAN.T,"Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,40,D,P
+18040448,"ABHIRAM PRADEEP. M. T","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,23,D,P
+18040448,"ABHIRAM PRADEEP. M. T","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,36,B,P
+18040448,"ABHIRAM PRADEEP. M. T","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,23,D,P
+18040448,"ABHIRAM PRADEEP. M. T","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,22,D,P
+18040448,"ABHIRAM PRADEEP. M. T","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,35,C,P
+18040448,"ABHIRAM PRADEEP. M. T","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,35,D,P
+18040448,"ABHIRAM PRADEEP. M. T","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,35,C,P
+18040446,"ABDUL RAHOOF. K.P","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,34,C,P
+18040446,"ABDUL RAHOOF. K.P","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,22,D,P
+18040446,"ABDUL RAHOOF. K.P","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,28,F,F
+18040446,"ABDUL RAHOOF. K.P","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,35,D,P
+18040446,"ABDUL RAHOOF. K.P","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,35,F,F
+18040446,"ABDUL RAHOOF. K.P","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,35,C,P
+18040446,"ABDUL RAHOOF. K.P","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,22,F,F
+17040503,"VISHNU. N","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,37,D,P
+17040503,"VISHNU. N","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,37,C,P
+17040503,"VISHNU. N","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,28,E,P
+17040503,"VISHNU. N","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,32,C,P
+17040503,"VISHNU. N","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,28,B,P
+17040503,"VISHNU. N","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,32,E,P
+17040503,"VISHNU. N","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,37,D,P
+17040500,"VAYSHNAV .O","Electronics Engineering",6,"6042-Communication Systems",Supplementary,Present,,15,F,F
+17040500,"VAYSHNAV .O","Electronics Engineering",6,"6041-Advanced Microprocessors",Supplementary,Present,,11,F,F
+17040500,"VAYSHNAV .O","Electronics Engineering",6,"6045-Radar and Navigation",Supplementary,Present,,13,F,F
+17040500,"VAYSHNAV .O","Electronics Engineering",6,"6043-Computer Hardware & Networking",Supplementary,Present,,30,F,F
+17040488,"SARATH CHAND.T","Electronics Engineering",6,"6041-Advanced Microprocessors",Supplementary,Absent,,15,F,F
+17040462,"FAISAL. K. P","Electronics Engineering",6,"6045-Radar and Navigation",Regular,Present,,15,E,P
+17040462,"FAISAL. K. P","Electronics Engineering",6,"6049-Computer Hardware and Networking Lab",Regular,Present,,36,B,P
+17040462,"FAISAL. K. P","Electronics Engineering",6,"6048-HDL and Simulation Software Lab",Regular,Present,,30,C,P
+17040462,"FAISAL. K. P","Electronics Engineering",6,"6043-Computer Hardware & Networking",Regular,Present,,20,E,P
+17040462,"FAISAL. K. P","Electronics Engineering",6,"6042-Communication Systems",Regular,Present,,38,C,P
+17040462,"FAISAL. K. P","Electronics Engineering",6,"6041-Advanced Microprocessors",Regular,Present,,38,D,P
+17040462,"FAISAL. K. P","Electronics Engineering",6,"6009-Project & Seminar",Regular,Present,,38,B,P
+15040450,"ANAS MOHAMMED. P","Electronics Engineering",6,"6046-Television Engineering",Supplementary,Present,,35,C,P
+15040450,"ANAS MOHAMMED. P","Electronics Engineering",6,"6042-Communication Systems",Supplementary,Present,,34,C,P
